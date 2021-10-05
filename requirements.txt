@@ -1,0 +1,16 @@
+# The below packages are required for execution purposes
+
+# Data packages
+numpy==1.19.2
+pandas==1.0.4
+
+# ML packages
+scikit-learn==0.23.1
+
+# NLP packages
+beautifulsoup4==4.9.3
+spacy==3.1.3
+
+# Plotting packages
+matplotlib==3.3.1
+
