@@ -2,6 +2,7 @@
 
 from typing import List
 
+import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
 
 
